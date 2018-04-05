@@ -4,3 +4,4 @@ Git�̗��K�ł��B
 ・git commit
 ・git rm
 ・git status
+・git diff
